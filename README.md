@@ -142,7 +142,7 @@
 
 ## Output Screen-shots:
 The Home page of the application that displays real time data of stock prices.
-![image](https://user-images.githubusercontent.com/76027425/179440522-674b6e07-31dc-422f-81e3-0e0c9c74c85a.png)
+![image](app/Screenshot 2026-03-18 183355.png)
 
 To Predict stock price we move on to predicition page where we need to enter valid ticker value and number of days and click predict button.
 ![image](https://user-images.githubusercontent.com/76027425/179440538-a7054ec1-ce3b-44b1-b55e-72bf7e23692c.png)
